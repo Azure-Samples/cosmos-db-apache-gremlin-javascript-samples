@@ -1,10 +1,12 @@
 # Azure Cosmos DB for Apache Gremlin client library samples for JavaScript
 
+[![Validate Node.js projects](https://github.com/Azure-Samples/cosmos-db-apache-gremlin-javascript-samples/actions/workflows/validate.yml/badge.svg)](https://github.com/Azure-Samples/cosmos-db-apache-gremlin-javascript-samples/actions/workflows/validate.yml)
 
 ## Getting started
 
 This repo has a [devcontainer](https://containers.dev) environment making it easy to get started.
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Azure-Samples/cosmos-db-apache-gremlin-javascript-samples?quickstart=1)
 
 ### Run the app
 
