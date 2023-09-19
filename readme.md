@@ -1,4 +1,4 @@
-# Azure Cosmos DB for Apache Cassandra client library samples for JavaScript
+# Azure Cosmos DB for Apache Gremlin client library samples for JavaScript
 
 
 ## Getting started
