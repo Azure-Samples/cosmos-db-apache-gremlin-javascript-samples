@@ -7,9 +7,6 @@ const accountName = process.env.COSMOS_GREMLIN_ENDPOINT
 const accountKey = process.env.COSMOS_GREMLIN_KEY
 // </environment_variables>
 
-console.log(`[ACCOUNT NAME]: ${accountName}`)
-console.log(`[ACCOUNT KEY]: ${accountKey}`)
-
 // <authenticate_client>
 const credentials = new gremlin.driver.auth.PlainTextSaslAuthenticator(
   '/dbs/cosmicworks/colls/products',
